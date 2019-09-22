@@ -4,7 +4,7 @@ With a lot of people, banks and online retailer being a victim of credit card fr
 
 Dataset : The dataset has been obtained from kaggle. This dataset contains 284807 rows and 30 numeric columns and one class that specifies whether the transaction is fraudulent or not. The values of columns V1-V28 in the dataset may be result of a PCA(Principal Component Analysis) Dimensionality reduction to protect user identities and sensitive information. There are no missing values in the dataset.
 
-Algorithm : The algorithm used in this dataset is Random Forest algorithm. For model improvement normalization and SMOTE techniques (to handle imbalanced data) were used.
+Algorithm : I have used Logistic Regression, Naive Bayes, KNN, Decision Tree, Random Forest algorithm. For model improvement normalization and SMOTE techniques (to handle imbalanced data) were used.
 
 Visualisation : The library used for visualizing the data, confusion matrix etc. is seaborn.
 
